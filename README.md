@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Ethan. 👋
 
+📈 I'm a Data Scientist in Denver, CO. 
+
+✏️ I’m also a former high school AP Statistics and mathematics teacher.
+
+➡️ I'm interested in AI, ML, learning analytics, and educational technology.  To learn more about me, check out my [LinkedIn](https://www.linkedin.com/in/ethanwicker/) or the [_About_ section](https://ethanwicker.com/subpages/about/) of [my website](https://ethanwicker.com/).
+
+📫 Feel free to reach out via ethanwicker@gmail.com.
 <!--
 **ethanwicker/ethanwicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Hi, I'm Ethan. 👋
 
-📈 I'm a Data Scientist in Denver, CO. 
+📈 I'm a the Director of Analytics at Nectir. 
 
 ✏️ I’m also a former high school AP Statistics and mathematics teacher.
 
